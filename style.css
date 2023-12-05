@@ -1,0 +1,51 @@
+body{
+    background-color: red;
+    border: 3px solid black;
+}
+
+main{
+    text-align: center;
+}
+p{
+    color: yellow;
+}
+header{
+    background-color: orange;
+}
+nav{
+    padding: 18px;
+    margin: 10px;
+    text-align: center;
+
+}
+nav a{
+    text-decoration: none;
+    margin: 10px;
+    border: 2px solid gray;
+    padding: 10px;
+    background-color:gray;
+    border-radius: 15px;
+    color: yellow;
+}
+h1,h2{
+    border: 2px solid yellow;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 45px;
+}
+.super{
+    border:2px solid black;
+}
+footer p{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+}
+img{
+    border-radius: 17px;
+}
+footer{
+    background-color: lightgreen;
+}
